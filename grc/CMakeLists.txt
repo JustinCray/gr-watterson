@@ -7,4 +7,4 @@
 #
 
 install(FILES
-    wattersonChannel_wattersonChannelModel.block.yml DESTINATION share/gnuradio/grc/blocks)
+    watterson_watterson.block.yml DESTINATION share/gnuradio/grc/blocks)
